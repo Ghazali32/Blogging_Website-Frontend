@@ -43,8 +43,8 @@ Ensure you have the following installed:
     npm run dev
     # or
     yarn dev
-##Usage
-Visit http://localhost:5172 in your browser to see the application in action.
+## Usage
+Visit http://localhost:5173 in your browser to see the application in action.
 
 Login Credentials
 You can use the following login credentials to test the application:
