@@ -25,8 +25,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/blogging-website.git
-   cd blogging-website
+   git clone https://github.com/Ghazali32/Blogging_Website-Frontend.git
+   cd Blogging_Website-Frontend
    
 2. **Install dependencies:**
    ```bash
